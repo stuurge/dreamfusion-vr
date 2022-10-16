@@ -35,7 +35,7 @@ public class TestFilesCopy : AdaptiveWindowGUI
     private void CopyFile ()
     {
         var file = new UnityGoogleDrive.Data.File() { Id = fileId, Name = string.IsNullOrEmpty(copyName) ? null : copyName };
- 
+        GoogleDriveFiles.Download(fileId).Send().OnDone += BuildResultString;
         request = GoogleDriveFiles.Copy(file);
         request.Fields = new List<string> { "name, size, createdTime" };
         request.Send().OnDone += BuildResultString;

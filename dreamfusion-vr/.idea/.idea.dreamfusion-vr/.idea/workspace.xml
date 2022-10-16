@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="28cb5493-c084-4501-adb1-8ed417cc3d79" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.dreamfusion-vr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dreamfusion-vr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TestFilesCopy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TestFilesCopy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TestFilesDownloadRange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TestFilesDownloadRange.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExampleGetFileByPath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FileDownloader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestFilesCreate.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665885890453</updated>
       <workItem from="1665885907800" duration="5000" />
-      <workItem from="1665914208199" duration="4580000" />
+      <workItem from="1665914208199" duration="5962000" />
     </task>
     <servers />
   </component>
