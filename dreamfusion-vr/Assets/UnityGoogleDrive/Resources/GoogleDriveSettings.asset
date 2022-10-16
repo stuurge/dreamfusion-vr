@@ -13,13 +13,14 @@ MonoBehaviour:
   m_Name: GoogleDriveSettings
   m_EditorClassIdentifier: 
   genericClientCredentials:
-    client_id: 
-    project_id: 
-    auth_uri: 
-    token_uri: 
-    auth_provider_x509_cert_url: 
-    client_secret: 
-    redirect_uris: []
+    client_id: 114429806090-tpnc1sa96togkne3o5d5mdhlf92qiihi.apps.googleusercontent.com
+    project_id: dreamfusion-vr
+    auth_uri: https://accounts.google.com/o/oauth2/auth
+    token_uri: https://oauth2.googleapis.com/token
+    auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+    client_secret: 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
+    redirect_uris:
+    - http://localhost
   uriSchemeClientCredentials:
     clientId: 
     reversedClientId: 
