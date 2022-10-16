@@ -46,7 +46,7 @@ public class Teleport : MonoBehaviour
             return;
         }
 
-        Vector3 finalDes = new Vector3(hit.point.x, 1, hit.point.z);
+        Vector3 finalDes = new Vector3(hit.point.x, hit.point.y+1, hit.point.z);
         TeleportRequest request = new TeleportRequest() {
             //destinationPosition = hit.point,
             destinationPosition = finalDes,
