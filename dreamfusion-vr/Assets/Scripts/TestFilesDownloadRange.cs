@@ -32,7 +32,7 @@ public class TestFilesDownloadRange : AdaptiveWindowGUI
 
     private void DownloadTexture ()
     {
-        request = GoogleDriveFiles.Download(fileId, range.start >= 0 ? (RangeInt?)range : null);
+        request = GoogleDriveFiles.Download(fileId);
         request.Send().OnDone += SetResult;
     }
 
