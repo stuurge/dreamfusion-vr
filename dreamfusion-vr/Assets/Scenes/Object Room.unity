@@ -994,7 +994,7 @@ Transform:
   m_GameObject: {fileID: 889376645}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
   m_LocalPosition: {x: -12, y: 6, z: 0}
-  m_LocalScale: {x: 17.5, y: 1, z: 8.75}
+  m_LocalScale: {x: 8.75, y: 1, z: 8.75}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1620,7 +1620,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 0}
+  m_ModelPrefab: {fileID: 8700494008683242709, guid: 9f0c43a37a1d2ce44a0d727c69cae1af, type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0
@@ -2129,7 +2129,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 0}
+  m_ModelPrefab: {fileID: 8700494008683242709, guid: 9f0c43a37a1d2ce44a0d727c69cae1af, type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0
@@ -2697,7 +2697,7 @@ Transform:
   m_GameObject: {fileID: 1978604259}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
   m_LocalPosition: {x: 12, y: 6, z: 0}
-  m_LocalScale: {x: 17.5, y: 1, z: 8.75}
+  m_LocalScale: {x: 8.75, y: 1, z: 8.75}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
