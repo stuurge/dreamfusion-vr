@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.elringus.unitycommon": {
+      "version": "https://github.com/Elringus/UnityCommon.git#package",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5594ed43a341d1caf5a9d19e4c2d9fbec2e69da9"
+    },
     "com.elringus.unitygoogledrive": {
       "version": "https://github.com/Elringus/UnityGoogleDrive.git#package",
       "depth": 0,
